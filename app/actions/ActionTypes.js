@@ -1,0 +1,2 @@
+export const FETCH_DETAILS = "FETCH_DETAILS";
+export const TOGGLE_DETAILS = "TOGGLE_DETAILS";
